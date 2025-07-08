@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Artificial Bee Colony - Application Example
 
 The program demonstrates the operation of the Artificial Bee Colony (ABC) algorithm using a practical example.  
@@ -31,3 +32,4 @@ Additionally, code plots:
 Jan Jurek
 
 ---
+=======
